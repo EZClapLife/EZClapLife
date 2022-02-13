@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shepherd
+- 👋 Hi, I’m @EZClapLife
 - 👀 I’m interested in ... Fivem Server Development
 - 🌱 I’m currently learning ... More
 - 💞️ I’m looking to collaborate on ... Fivem Development
-- 📫 How to reach me ... Discord Shepherd#7633
+- 📫 How to reach me ... Discord EZClapLife#7633
 
 <!---
 ShepherdHere/ShepherdHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
